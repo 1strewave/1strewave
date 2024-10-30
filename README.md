@@ -5,7 +5,7 @@ My name is Arsenii Trutnev, and I'm a developer with experience in various progr
 ## What I'm Working On
 
 - 🐍 **Python**: I have been learning Python November 13 2020 and use it to create applications and Discord bots.
-- ☕ **Java**: I have been studying Java since August 8 2024, mainly focusing on creating Minecraft plugins using Bukkit and Paper API.
+- ☕ **Java**: I have been studying Java since August 8 2024, mainly focusing on creating Minecraft plugins using Bukkit API.
 - 🌐 **HTML & CSS**: I have experience with basic web development, working on small website layouts and styling using HTML and CSS.
 
 ## My Projects
