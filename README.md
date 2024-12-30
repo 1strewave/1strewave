@@ -13,12 +13,14 @@ My name is Arsenii Trutnev, and I'm a developer with experience in various progr
 
 ## My Projects
 
-I'm currently working on:
+- **Chronix**: Micro WebService which can help you to deploy site faster and easier  
+  [GitHub Repository](https://github.com/1strewave/Chronix)
 
-- 🎮 **Minecraft Plugins**: Plugins for Minecraft servers with unique mechanics like teleportation systems, and traps.
-- 🤖 **Discord Bots**: Bots for moderation, entertainment, and educational purposes.
-- 🌍 **Web Development**: Creating small website layouts and improving UX/UI with HTML & CSS.
-- 🌐 **Go Projects**: I plan to develop network-oriented applications and work with network protocols using Go.
+- **URL-Shortener**: Service which can make your link shorter and much prettier  
+  [GitHub Repository](https://github.com/1strewave/URL-Shortener)
+
+- **Server-Status-Bot for Discord**: Discord application which is able to ping servers and tell you information about them  
+  [GitHub Repository](https://github.com/1strewave/Minecraft-Server-Status-Bot-In-Discord)
 
 ## My Interests
 
