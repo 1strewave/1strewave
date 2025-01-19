@@ -22,7 +22,7 @@ My name is Arsenii Trutnev, and I'm a developer with experience in various progr
 - **Server-Status-Bot for Discord**: Discord application which is able to ping servers and tell you information about them  
   [GitHub Repository](https://github.com/1strewave/Minecraft-Server-Status-Bot-In-Discord)
 
-- **Sufut Boot Manager**: A utility for Linux that can write an ISO file to a USB drive, allowing you to boot an operating system from it  
+- **Sufur Boot Manager**: A utility for Linux that can write an ISO file to a USB drive, allowing you to boot an operating system from it  
   [GitHub Repository](https://github.com/1strewave/Sufur-Boot-Manager)
 
 ## My Interests
