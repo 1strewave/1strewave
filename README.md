@@ -5,8 +5,11 @@
 I'm **Arsenii Trutnev**, a developer passionate about coding, learning new technologies, and building cool projects.  
 
 ## 🔧 Tech Stack  
-- **Languages**: Python, Go, HTML & CSS  
-- **Tools**: Tailwind CSS, Bukkit API  
+- **Languages**: Go, HTML & CSS
+- **Tools**: Git, CI/CD
+- **Frameworks**: Gin, Echo
+- **Databases**: SQLite, PostgreSQL
+- **Grind**: Leetcode, Data Struct & Algos, Dyn Programming 
 
 ## 📫 Reach Me  
 Feel free to connect via [Telegram](https://t.me/JavaGovnoCoder).  
