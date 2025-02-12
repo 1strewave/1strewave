@@ -5,7 +5,7 @@
 I'm **Arsenii Trutnev**, a developer passionate about coding, learning new technologies, and building cool projects.  
 
 ## 🔧 Tech Stack  
-- **Languages**: Go, HTML & CSS
+- **Languages**: Go, ( HTML & CSS )
 - **Tools**: Git, CI/CD
 - **Frameworks**: Gin, Echo
 - **Databases**: SQLite, PostgreSQL
