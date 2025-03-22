@@ -5,11 +5,11 @@
 I'm **Arsenii Trutnev**, a fullstack developer passionate about writing clean, efficient code and exploring new technologies.  
 
 ## 🔧 Tech Stack  
-- **Programming Languages**: Go, TypeScript
+- **Programming Languages**: Go, TypeScript, Java
 - **Markup & Styling**: HTML, CSS, TailwindCSS, SCSS
 - **Tools**: Git, CI/CD  
-- **Frameworks**: Gin, Echo, React.js, Next.js 
-- **Databases**: SQLite, PostgreSQL  
+- **Frameworks**: Gin, Echo, React.js, Next.js, Spring Boot
+- **Databases**: SQLite, PostgreSQL 
 - **Topics of Interest**: Leetcode, Data Structures & Algorithms, Dynamic Programming  
 
 ## 📫 Get in Touch  
