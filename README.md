@@ -1,29 +1,52 @@
-<h1 align="center">Hi 👋 I'm Arsenii Trutnev</h1>
+<h1 align="center">Hi 👋, I'm Arsenii Trutnev</h1>
+<h3 align="center">Full Stack | Backend | Systems | Open Source Enthusiast</h3>
 
-# 💫 About Me:
-I’m a computer engineering student with a deep passion for creating scalable and efficient software solutions. My journey is focused on becoming a well-rounded Full Stack Engineer, where I can bring both frontend and backend together seamlessly.
+<p align="center">
+  <a href="https://www.linkedin.com/in/arsenii-trutnev-2b9128285/?trk=opento_sprofile_topcard">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/1strewave?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## 🚀 Currently Focusing On:
+---
 
-- 🌍 Enhancing my full-stack development skills with **React**, **TypeScript**, and **Spring Boot**
-- 🖥️ Crafting robust backend services using **Java Spring Boot** and **PostgreSQL**
-- 🔧 Building high-performance microservices with **Golang**
-- 📖 Deepening my knowledge of **SQLite** for lightweight and embedded database solutions
+## 🚀 About Me
 
-Explore my [coding portfolio!](https://github.com/1strewave?tab=repositories)
+🎓 I'm a passionate Computer Engineering student, working towards becoming a well-rounded **Full Stack Engineer** with strong backend roots and a keen eye for frontend quality.  
+💡 I love building scalable systems, clean APIs, and meaningful digital products.  
+🌱 Currently sharpening my skills in **Rust**, **Golang**, and high-performance backend architectures.
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsenii-trutnev-2b9128285/?trk=opento_sprofile_topcard)
+---
 
-# 💻 Tech Stack:
-**Languages:**  
+## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Go](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+### 💻 Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-**Developer Tools:**  
+### 🧰 Frameworks & Libraries  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Libraries/Frameworks:**  
+---
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)  ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+## 📚 Currently Focusing On
+
+- 🔧 Backend engineering with **Spring Boot**, **Golang**, and **Rust**
+- 🌐 Building full-stack applications with **React** and **TypeScript**
+- 📈 Exploring microservices, clean architecture & software design principles
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out — I’m always open to chat about projects, collaboration, or career opportunities.
+
+<p align="center">
+  <a href="mailto:arsenii.trutnev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
